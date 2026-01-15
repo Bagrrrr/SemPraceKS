@@ -1,12 +1,39 @@
-ČVUT
-134 70 64
-20 11 31 41 10 21
-4 20 25 25 10 5 10 15 11 9
-ČZU
-120 78 42
-20 20 20 20 20 20
-10 10 20 10 10 20 10 10 10 10
-VŠE
-111 30 81
-13 18 20 20 20 20
-1 2 4 8 16 32 8 25 15 0
+Používáte aplikaci eDoklady či portál občana
+Ano
+102
+Ne
+216
+
+Odkud služby znáte
+Neznám
+30
+Přátelé x Rodina
+84
+Sociální média
+114
+Rádio TV
+48
+Úřad
+42
+
+Ohodnoťte současnou úroveň digitalizace státu
+1b
+3
+2b
+4
+3b
+19
+4b
+26
+5b
+93
+6b
+85
+7b
+63
+8b
+21
+9b
+4
+10b
+0
